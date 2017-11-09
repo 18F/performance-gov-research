@@ -7,8 +7,6 @@ This repo contains documentation describing the OGP Performance.gov Foundation E
 * [Our Hypothesis](#our-hypothesis)
 * [Risks](#risks)
 * [Important Resources](#important-resources)
-*
-*
 
 ## About this project 
 Performance.gov, housed within OGP, is a window to federal agency's efforts to deliver a more effective, smarter and leaner government. Performance.gov showcases what the federal government is working to accomplish, how it seeks to accomplish its objectives and why these efforts are important. The site is used by the public, various agencies, members of Congress, and the media. It enables its users to monitor progress being made across administrations in improving performance and delivering results to the American people. 
