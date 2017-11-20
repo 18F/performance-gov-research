@@ -1,5 +1,5 @@
 # Welcome!
-This repo contains documentation describing the OGP Performance.gov Foundation Engagement and Discovery. This is where the project team can keep track of project vision, goals, timeline, the decision framework and learnings as we work. We want this to be the one-stop-shop where project participants - and anyone else who is interested in this project - can access important project information. 
+This repository contains documentation describing the OGP Performance.gov Foundation Engagement and Discovery. This is where the project team can keep track of project vision, goals, timeline, the decision framework and learnings as we work. We want this to be the one-stop-shop where project participants - and anyone else who is interested in this project - can access important project information. 
 
 # Contents 
 * [About this project](#about-this-project)
@@ -36,4 +36,4 @@ OMB does not use performance data to make deicsion
 Project Management
 * [Slack Channel](https://gsa-tts.slack.com/messages/C79M78VQC/convo/G0LSHU0PP-1510239239.000251/) (Private)
 * [18F Project Folder](https://drive.google.com/drive/u/1/folders/0Bykd9KmMpACXRUl2RDdGZjNucFk?ths=true) (Private)
-
+* [Technical Background](https://drive.google.com/drive/folders/0B2stDO5hLAHkWUlucVhlTzZ0dzQ)
