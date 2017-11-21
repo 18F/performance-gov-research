@@ -6,4 +6,4 @@ This repository contains documentation describing the OGP Performance.gov Founda
 # Contents 
 * [History](/HISTORY.md)
 * [About this project](/ABOUT.md)
-* [Technical Ecosystem](/TECHNICAL ECOSYSTEM.md)
+* [Technical Ecosystem](/TECHNICAL-ECOSYSTEM.md)
