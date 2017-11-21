@@ -2,7 +2,7 @@
 ### Target Users
 Who are our users?  What are the pain points? 
 
-- **Public Media**
+- **Public & Media**
 	- Schools/Students
 		- Seeking information on how government works
 	- Universities/Researchers
@@ -15,7 +15,7 @@ Who are our users?  What are the pain points?
 	- Reporters
 		- Advocate for specific policies
 
-- *State & Local Governments*
+- **State & Local Governments**
 	- U.S Chamber of Commerce
 		- Data on issues of interest
 		- Looking for facts and stories
@@ -27,7 +27,7 @@ Who are our users?  What are the pain points?
 		- Wants granular data
 	- AARP
 
-- *Internal Government Staff*
+- **Internal Government Staff**
 	- PMC
 		- Decision makers
 		- Communication of work and progress
@@ -47,7 +47,7 @@ Who are our users?  What are the pain points?
 		- Communication of work and progress
 		- Manage agency
 
-- *Congress/GAO*
+- **Congress/GAO**
 	- Government Affairs 
 		- Decisions-makers
 		- Provide oversight
@@ -64,7 +64,7 @@ Who are our users?  What are the pain points?
 		- Compare agency performance
 		- Transparency
 
-- *Agency Suppliers* 
+- **Agency Suppliers**
 	- Federal Agencies
 		- Would like to compare themselves against other agencies
 		- Heavy users of the site
