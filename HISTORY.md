@@ -1,9 +1,9 @@
 Below is a brief overview of the background documents that Amin, the product owner from PIC, put together. You can view them on the [Google Drive account](https://drive.google.com/drive/folders/0B2stDO5hLAHkR09EZFNMOUo3anc). There’s a lot of detail, but they’re all worth reading. 
 
-## Background (based on a discussion paper developed on August, 2017) 
+### Background (based on a discussion paper developed on August, 2017) 
 2017 is the first time performance.gov will need to be updated in response to a presidential transition. *The current site meets certain compliance requirements, but does not give agencies a compelling tool to tell their story or update their content on a regular basis.* 
 
-## Product Vision 
+### Product Vision 
 - [This document](https://drive.google.com/drive/u/0/folders/0B2stDO5hLAHkVlhNU3BxVTVHeEU) lays out a detailed vision for the new performance.gov: 
 	- *Clear communication of priorities and results* - should help the admin communicate its goals and priorities and the results achieved. It should be able to reflect changes in the priorities and objectives without impacting the underlying performance data. 
 	- *Increased transparency* - make federal data more accessible and transparent for a variety of audiences. Make it easier for people to access the performance of government. 
@@ -37,6 +37,12 @@ Below is a brief overview of the background documents that Amin, the product own
 	- OMB Has Not Incorporated Social Media into Its Customer Outreach
 	- Performance.gov Is Accessible on Mobile Devices, but OMB Has Not Yet Determined Whether to Pursue Mobile Applications
 	- OMB and the PIC Do Not Have a Plan to Maintain Archived Data
+- *Legal & Policy Drivers*
+	- [GPRA](https://www.congress.gov/bill/103rd-congress/senate-bill/20)
+	- [GPRAMA](https://www.congress.gov/bill/111th-congress/house-bill/2142/text)
+	- [A-11](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/a11_current_year/a11_2017/part6_executive_summary.pdf) ([summary of changes](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/a11_current_year/a11_2017/summary.pdf))
+	- [DATA Act](https://www.congress.gov/bill/113th-congress/senate-bill/994)
+	- PM IAA
 - Agencies are updating their goals and objectives for release in February 2018 along with the President’s next budget submission to Congress. A new variant of performance.gov is needed by then. 
 - Demos
 	- https://www.youtube.com/watch?v=AVA7aRAVJIo
@@ -46,9 +52,6 @@ Below is a brief overview of the background documents that Amin, the product own
 	- Prototype: https://projects.invisionapp.com/share/8SCPNF7BQ#/screens/245111677_Homepage
 	- Wireframes: https://projects.invisionapp.com/share/JNBRWI8UC#/screens/234426288
 
-
-
-
 ### Key stakeholders / Prospective users:
 - White House & OMB has the responsibility of implementing the GPRA modernization act legislation. 
 - Federal agencies - all agencies are responsible for meeting the requirements of GPRAMA and for providing input to OMB to best present a coherent performance story for the federal programs they manage. 
@@ -57,9 +60,8 @@ Below is a brief overview of the background documents that Amin, the product own
 - Special interest groups - media, academia, scientists, researchers, evaluators, contractors, advocacy groups, think tanks, etc.
 - Check out more detail on personas and stakeholders [here](https://drive.google.com/drive/u/1/folders/0B2stDO5hLAHkUzdjTWhVS1IxS0U): 
 	- Basically this says that they want to focus on the management layer within agencies that struggles to extract value/meaning from the performance data reported internally. They sit at the middle of the reporting ecosystem. 
-
-## Usability insights for the current performance.gov site: 
-
+-
+### Usability insights for the current performance.gov site: 
 - General pain points observed:
 	- Difficulty finding content through search and lack of confidence in search results
 		- Search produces poor results, with results seemingly not being connected to search terms  
@@ -83,3 +85,5 @@ Below is a brief overview of the background documents that Amin, the product own
 		- Quarterly - both cross-agency priority goals and agency priority goals are updated quarterly. Cross-agency goals are submitted via email to the PIC team for review, while agency goals are submitted through PREP. 
 		- Annual
 		- Ad hoc - agencies can update previously submitted data. These are made at the discretion of the agency and published outside of the quarterly update process. 
+
+Original Source: https://docs.google.com/document/d/1eVEUfSXVaGwt_X8v4KAzFkFR7X3WIzkqIYdJ12KYhys/edit
