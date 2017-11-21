@@ -29,7 +29,7 @@ We want to tell the right story with the data that agencies provide that is most
 |:---|:---:|:---:|
 | There is not a single agency persona or motivation, but rather different personas and motivations for different people within an agency | 
 There is a a lack of clarity by performance.gov's primary staleholders on what is expected from agencies 
-OMB does not use performance data to make deicsion 
+OMB does not use performance data to make decision. 
 
 ## Important Resources 
 
