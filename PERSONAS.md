@@ -1,5 +1,6 @@
 ### Personas
 
+This table captures data originally posted on [the mural.ly board](https://app.mural.ly/t/gsa6/m/gsa6/1509480157396/e50532fcbddba788c9f48214536eacc9f984be62)
 
 | Name  | Behaviors & Actions | Demographic & Psychographic Details  | Needs and Pain points | 
 |---|---|---|---|
