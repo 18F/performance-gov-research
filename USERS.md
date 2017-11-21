@@ -4,7 +4,7 @@ Who are our users?  What are the pain points?
 
 - *Public Media*
 	- Schools/Students
-		-Seeking information on how government works
+		- Seeking information on how government works
 	- Universities/Researchers
 		- Data for research
 		- Targeted for specific policies
