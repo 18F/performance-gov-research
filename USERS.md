@@ -2,7 +2,7 @@
 ### Target Users
 Who are our users?  What are the pain points? 
 
-- *Public Media*
+- **Public Media**
 	- Schools/Students
 		- Seeking information on how government works
 	- Universities/Researchers
