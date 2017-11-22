@@ -1,4 +1,4 @@
-Below is a brief overview of the background documents that Amin, the product owner from PIC, put together. You can view them on the [Google Drive account](https://drive.google.com/drive/folders/0B2stDO5hLAHkR09EZFNMOUo3anc). There’s a lot of detail, but they’re all worth reading. 
+Below is a brief overview of the background documents that Amin, the product owner from PIC, put together. You can view them on the [Google Drive account &#128274;](https://drive.google.com/drive/folders/0B2stDO5hLAHkR09EZFNMOUo3anc). There’s a lot of detail, but they’re all worth reading. 
 
 ### Background (based on a discussion paper developed on August, 2017) 
 2017 is the first time performance.gov will need to be updated in response to a presidential transition. *The current site meets certain compliance requirements, but does not give agencies a compelling tool to tell their story or update their content on a regular basis.* 
