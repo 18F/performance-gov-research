@@ -8,9 +8,9 @@ Below is a brief overview of the background documents that Amin, the product own
 	- *Clear communication of priorities and results* - should help the admin communicate its goals and priorities and the results achieved. It should be able to reflect changes in the priorities and objectives without impacting the underlying performance data. 
 	- *Increased transparency* - make federal data more accessible and transparent for a variety of audiences. Make it easier for people to access the performance of government. 
 - _Guiding principles_: 
-	- *More focused on data* - the existing site included significant exploratory narrative around objectives and indicators, but the data was difficult to access and only existed in the context of priority goals. The new site should focus more on acting as an accessible and searchable long-term repository for performance data across govert and the data should be independent of changes in priorities. 
+	- *More focused on data* - the existing site included significant exploratory narrative around objectives and indicators, but the data was difficult to access and only existed in the context of priority goals. The new site should focus more on acting as an accessible and searchable long-term repository for performance data across government and the data should be independent of changes in priorities.
 	- *API-driven*: The site must also enable machine readable data as well as provide an API layer so that external users can harness the data. 
-	- *Better integrated with spending & other datasets* - Congress in particular is interested in better integration of performance data with spending and financial data (e.g., USASpending.gov). 
+	- *Better integrated with spending & other datasets* - Congress in particular is interested in better integration of performance data with spending and financial data (e.g., USASpending.gov).
 	- Better user experience for both internal (admins?) and external audiences (consumers?) 
 	- *Legal compliance* - the GPRA Modernization ACT of 2010 (see below) lays out the framework and statutory requirements for the new performance.gov. 
 	- Minimize reporting burden - the site will leverage technology and infrastructure to the extent possible to allow for the sharing of data across systems and existing agency APIs. 
@@ -20,7 +20,7 @@ Below is a brief overview of the background documents that Amin, the product own
 
 ### Other drivers (policy & deadlines): 
 
-- *Government Performance and Results Act (GPRA) of 1993* - requires each agency to produce a strategic plan every three years, an annual performance report each february, and annual performance report. 
+- *Government Performance and Results Act (GPRA) of 1993* - requires each agency to produce a strategic plan every three years, an annual performance report each February, and annual performance report. 
 - *GPRA Modernization Act of 2010* - a variety of reforms aimed at modernizing the government's nearly two-decade old performance management framework. Requires agencies to update their Strategic Plan every four years. Congress also included transparency provisions in GPRAMA, which makes OMB responsible for: 
 	- Priority goals - establish a single federal website that provides updates on cross-agency and agency priority goals, including quarterly measures and milestones
 	- Federal program inventory - develop a consolidated list of fed govt programs for inclusion on the site; and
@@ -45,8 +45,8 @@ Below is a brief overview of the background documents that Amin, the product own
 	- PM IAA
 - Agencies are updating their goals and objectives for release in February 2018 along with the President’s next budget submission to Congress. A new variant of performance.gov is needed by then. 
 - Demos
-	- https://www.youtube.com/watch?v=AVA7aRAVJIo
-	- https://www.youtube.com/watch?v=OqChFe4YLxA
+	- [Agency Editor training demo](https://www.youtube.com/watch?v=AVA7aRAVJIo)
+	- [Resource Management Officer training demo](https://www.youtube.com/watch?v=OqChFe4YLxA)
 - Re-design Attempt
 	- Google Drive: https://drive.google.com/drive/folders/0B2stDO5hLAHkOEdVVFpmTlVFSjg
 	- Prototype: https://projects.invisionapp.com/share/8SCPNF7BQ#/screens/245111677_Homepage
@@ -60,7 +60,7 @@ Below is a brief overview of the background documents that Amin, the product own
 - Special interest groups - media, academia, scientists, researchers, evaluators, contractors, advocacy groups, think tanks, etc.
 - Check out more detail on personas and stakeholders [here](https://drive.google.com/drive/u/1/folders/0B2stDO5hLAHkUzdjTWhVS1IxS0U): 
 	- Basically this says that they want to focus on the management layer within agencies that struggles to extract value/meaning from the performance data reported internally. They sit at the middle of the reporting ecosystem. 
--
+
 ### Usability insights for the current performance.gov site: 
 - General pain points observed:
 	- Difficulty finding content through search and lack of confidence in search results
