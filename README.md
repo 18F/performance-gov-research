@@ -9,5 +9,5 @@ This repository contains documentation describing the Office of Government-wide 
 * [Technical](/TECHNICAL.md) (*Placeholder*)
 * [Ecosystem](/ECOSYSTEM.md) (*Placeholder*)
 * [Personas](/PERSONAS.md) (*Placeholder*)
-* [Resources](/RESOURCES.md) (*Placeholder*)
+* [Resources](/RESOURCES.md)
 * [Users](/USERS.md) (*Placeholder*)
