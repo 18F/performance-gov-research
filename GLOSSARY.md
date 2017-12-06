@@ -24,12 +24,16 @@ Require quarterly progress updates.
 
 ##### Business intelligence
 
-BI.
+Often abbreviated BI, it is the strategies and technologies used by organizations for the data analysis of business information.
 
 
 ##### CAP goal
 
-Cross-Agency Priority goal.
+A Cross-Agency Priority (CAP) goal is a tool used to accelerate progress on a limited number of priority areas where implementation requires active collaboration between multiple agencies, overcoming organizational barriers to achieve better performance than one agency can achieve on its own.
+
+Set or revised at least every four years, CAP Goals include outcome-oriented goals that cover a limited number of crosscutting policy areas as well as management goals focused on management improvements across the Federal Government in areas of financial management, strategic human capital management, information technology management, procurement and acquisition management, and real property management.
+
+A series of 16 CAP Goals were announced in the 2015 Budget with clearly named accountable officials, data-driven reviews that incorporated a broad range of quantitative and qualitative inputs, and reporting to the public through a common website as a framework to drive performance improvements on cross-government collaboration and tackle government-wide management challenges affecting most agencies.
 
 
 ##### Chief Evaluation Officer
@@ -106,7 +110,7 @@ See [Performance Improvement Officer](#performance-improvement-officer).
 
 ##### PM
 
-Project Manager? Performance Manager?
+Program Manager, though it can possibly refer to a project manager as these terms can sometimes be used interchangeably.
 
 
 ##### PREP
@@ -125,7 +129,9 @@ See [Resource Management Officer](#resource-management-officer).
 
 ##### Resource Management Officer
 
-Assigned to an agency by the Office of Management and Budget. Reviews the
+Office - One of five OMB offices on the B (budget) side that helps to carry out OMB’s central activity of assisting the President in overseeing the preparation of the Federal Budget and supervising its administration of Executive Branch agencies.  In helping to formulate the President’s spending plans, the RMOs assess the effectiveness of agency programs, policies, and procedures, weigh competing funding demands within and among agencies, and help work with agencies to set funding priorities.  Once the Budget is enacted, RMOs are responsible for the execution of Federal budgetary policies and provide ongoing policy and management guidance to Federal agencies.  As part of these and other responsibilities, the RMOs provide analysis and evaluation, oversee implementation of policy options, and support government-wide management initiatives.
+
+Officer - Assigned to an agency by the Office of Management and Budget. Reviews the
 agency's mission and overview, strategic plans, and priority goals and
 indicators.
 
