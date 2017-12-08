@@ -6,15 +6,15 @@ consultancy in the US federal government._
 Agencies use many different software packages for tracking and collecting
 performance data. The tools listed here were included by 16 CFO agencies as part
 of a [survey](https://drive.google.com/drive/folders/0B2stDO5hLAHkZUxPYy04X3F3dk0)
-for performance.gov.
+for performance.gov. We define "performance tool" as any software or system that
+agencies are using for budeget formulation, business intelligence, or
+performance management.
 
-We can't guarantee the accuracy of this page–it represents initial research
+We can't guarantee the accuracy of this page — it represents initial research
 of team members, and could be incomplete or become out-of-date.
 
 
-## Performance tools
-
-### Budget Formulation and Execution Manager (BFEM)
+## Budget Formulation and Execution Manager (BFEM)
 
 Used by Treasury, NASA, DOE, DOI, and others. About [14 agencies in
 total](https://www.tcg.com/our-work/treasury-budget-formulation-execution-manager-bfem-more-bang-for-your-buck/).
@@ -28,14 +28,14 @@ Other agencies can pay a fee to use the system.
 > and organizations using the BFEM application.
 
 [BFEM](https://bfem.gov/bfem/login.seam?cid=33544) can be used for budget and
-performance management. Focused on providing various reports for congress and
+performance management. Focused on providing various reports for Congress and
 OMB. Can produce strategic planning documents with links to performance and
 budget data.
 
 Can export data in excel and other formats.
 
 
-### Departmental E-Budgeting Suite (DEBS)
+## Departmental E-Budgeting Suite (DEBS)
 
 Used by DOL.
 
@@ -54,7 +54,7 @@ Seems to be focused on creating budget reports, less about data and data
 visualizations or performance tracking.
 
 
-### IBM Cognos
+## IBM Cognos
 
 Used by OPM.
 
@@ -72,7 +72,7 @@ guess the best visualization for your data. No mention of export or API
 features.
 
 
-### BFS
+## BFS
 
 Used by EPA.
 
@@ -87,7 +87,7 @@ Can create pre-defined visualizations and reports. Some kind of
 limited export is supported.
 
 
-### FACTSInfo
+## FACTSInfo
 
 [Foreign Assistance Coordination and Tracking System (FACTSInfo)](https://www.usaid.gov/data/dataset/adfec9e6-635b-435a-a0a5-1e2d2a40450a).
 
@@ -102,7 +102,7 @@ Internal, private [system](http://pdf.usaid.gov/pdf_docs/PCAAB918.pdf)
 containing budget data, mission strategic plans, and operational plans.
 
 
-### Oracle BI
+## Oracle BI
 
 Used by DHS.
 
@@ -119,13 +119,15 @@ articles](https://docs.oracle.com/cloud/otbi11116/bifgen/BIFGN/exporting_report.
 show that exporting individual reports and maybe raw data is possible.
 
 
-### Program Performance Tracking System
+## Program Performance Tracking System
 
 Used by HHS.
 
 An online [web
 portal](https://hhs-ppts.od.nih.gov/plexus/control?fromPage=x&toPage=/jsp/applications/visualscorecard/login.jsp&actionName=Cm_GotoPage)
-for managing HHS performance, budget, and Moyer Reports.
+for managing HHS performance, budget, and the Moyer Report which tracks how
+funding is being allocated across OpDivs and StaffDivs for a particular health
+care topic (e.g., Diabetes) and is submitted to Congress.
 
 An instance of the Plexus Scientific [Program Performance
 Manager](http://www.plexsci.com/program-performance-manager).
@@ -138,11 +140,10 @@ Manager](http://www.plexsci.com/program-performance-manager).
 Focus on combining budget, performance, risk, and strategy data. Emphasis on
 GPRA reporting compliance.
 
-- Creates ad hoc visualizations and reports
-- Export data to Microsoft Excel
+Creates ad hoc visualizations and reports and can export data to Microsoft Excel.
 
 
-### Agency Level MI Dashboard
+## Agency Level MI Dashboard
 
 Used by SSA.
 
