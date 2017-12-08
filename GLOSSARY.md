@@ -48,13 +48,13 @@ A series of 16 CAP Goals were announced in the 2015 Budget with clearly named ac
 ##### Chief Evaluation Officer
 A proposed, new agency position by [H.R.4174 - Foundations for Evidence-Based Policymaking Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/4174/text). This position would be appointed by the head of each agency and will be in charge of
 
---continually assess the coverage, quality, methods, consistency, effectiveness, independence, and balance of the portfolio of evaluations, policy research, and ongoing evaluation activities of the agency;
+* continually assess the coverage, quality, methods, consistency, effectiveness, independence, and balance of the portfolio of evaluations, policy research, and ongoing evaluation activities of the agency;
 
---assessing agency capacity to support the development and use of evaluation;
+* assessing agency capacity to support the development and use of evaluation;
 
---establishing and implementing an agency evaluation policy; and
+* establishing and implementing an agency evaluation policy; and
 
---coordinating, developing, and implementing the plan required under section 312.
+* coordinating, developing, and implementing the plan required under section 312.
  
 
 ##### CFO Act agencies
@@ -196,7 +196,7 @@ the delivery of the organization's mission and vision. Usually covering a number
 
 A general term possibly referring to one of four groups depending on the context.
 
--- the organizations who supply collected data, in other words, departments and agencies
--- the performance team members who submit the data into the [PREP](#prep) system for OMB and the PIC.
--- the people located in departments and agencies who collect and supply the data to the agency performance teams, in other words, program managers
--- the external grantee organizations, businesses, state governments, and local governments who supply data to government program managers based on how they use federal government resources and results.
+* the organizations who supply collected data, in other words, departments and agencies
+* the performance team members who submit the data into the [PREP](#prep) system for OMB and the PIC.
+* the people located in departments and agencies who collect and supply the data to the agency performance teams, in other words, program managers
+* the external grantee organizations, businesses, state governments, and local governments who supply data to government program managers based on how they use federal government resources and results.
