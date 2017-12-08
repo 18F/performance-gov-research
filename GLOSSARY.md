@@ -7,10 +7,14 @@ or legal definition.
 
 
 ##### agency performance plan (APP)
-
+A plan for a department or agency that provides detailed performance-related information to the President, the
+Congress, and the American people. This plan allows readers to identify the agency's performance
+targets for the coming fiscal year, relative to the agency's objectives and stewardship of public resources.
 
 ##### annual performance report (APR)
-
+An agency report that provides detailed performance-related information to the President, the
+Congress, and the American people. This report allows readers to assess the agency's fiscal year performance,
+revisions to the goals for that same fiscal year, and plans for Agency Priority Goals (APGs) in the coming fiscal year, relative to the agency's mission and stewardship of public resources.
 
 ##### APG
 
@@ -42,12 +46,20 @@ A series of 16 CAP Goals were announced in the 2015 Budget with clearly named ac
 
 
 ##### Chief Evaluation Officer
+A proposed, new agency position by [H.R.4174 - Foundations for Evidence-Based Policymaking Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/4174/text). This position would be appointed by the head of each agency and will be in charge of
 
+--continually assess the coverage, quality, methods, consistency, effectiveness, independence, and balance of the portfolio of evaluations, policy research, and ongoing evaluation activities of the agency;
+
+--assessing agency capacity to support the development and use of evaluation;
+
+--establishing and implementing an agency evaluation policy; and
+
+--coordinating, developing, and implementing the plan required under section 312.
+ 
 
 ##### CFO Act agencies
 
-24 agencies defined by the Cheif Financial Officer Act. These agencies make up
-the Performance Improvement Council.
+24 agencies defined by the Chief Financial Officer Act. These agencies send a performance representative, or Performance Improvement Officer, to constintute the membership of the Performance Improvement Council.
 
 
 ##### CGAC
@@ -58,6 +70,7 @@ A classification structure for budget.
 
 ##### CPG
 
+See [CAP Goal](#cap-goal).
 
 ##### GPRA
 
@@ -78,9 +91,11 @@ Government Performance and Results Act.
 
 ##### federal program inventory
 
+A document or report (or the act of researching to create the document or report) that consolidates information about federal programs working on the same goal. Such a report or document facilitates coordination across programs by making it easier to find programs that can contribute to a shared goal, as well as improve public understanding about what Federal programs do and how programs link to budget, performance and other information.
 
 ##### indicators and indicator instances
 
+An indicator is a fact, metric, or measurement providing information on the state, condition, or level of something. Agencies usually track between 100-300 metrics depending on the size and subject matter pertaining to the agency. An indictor instance is a specific example (intance) of an indicator.
 
 ##### interim website
 
@@ -95,8 +110,12 @@ and not necessarily the future website.
 
 ##### OMB Program Evaluators
 
+Housed in the B (budget) side of OMB, in a [Resource Managmenet Office](#rmo), a program evaluator is assigned to a branch or program area by the Office of Management and Budget. The program area may include one agency or multiple agencies. Program Evaluators review, provide feedback, and help shape an agency's mission and overview, strategic plans, and priority goals and
+indicators.
 
 ##### performance academy
+
+This is a proposed solution to the fundamental problem of a lack of data-driven culture, data literacy skills, performance management and evaluation skills, etc. It does not currently exist.
 
 
 ##### Performance Improvement Council
@@ -112,7 +131,7 @@ sharing among agencies.
 
 ##### Performance Improvement Officer
 
-Individual representative from federal agencies.
+Individual representative from federal agencies. This individual is usually the head of an office of strategic planning and (performance) management in an agency. The location of such an office varies between agencies. In some it can be located under the CFO; in others, it can be located elsewhere.
 
 
 ##### PMLOB
@@ -143,30 +162,41 @@ data and information. Used to draft, review, and publish performance data.
 
 ##### priority goals
 
+There are two types of priority goals, Agency Priority Goals, or [APGs](#apg), and Cross-agency Priority Goals, or [CAP goals](#cap-goal).
 
 ##### RMO
 
-See [Resource Management Officer](#resource-management-officer).
+See [Resource Management Office](#resource-management-office).
 
 
-##### Resource Management Officer
+##### Resource Management Office
 
-Office - One of five OMB offices on the B (budget) side that helps to carry out OMB’s central activity of assisting the President in overseeing the preparation of the Federal Budget and supervising its administration of Executive Branch agencies.  In helping to formulate the President’s spending plans, the RMOs assess the effectiveness of agency programs, policies, and procedures, weigh competing funding demands within and among agencies, and help work with agencies to set funding priorities.  Once the Budget is enacted, RMOs are responsible for the execution of Federal budgetary policies and provide ongoing policy and management guidance to Federal agencies.  As part of these and other responsibilities, the RMOs provide analysis and evaluation, oversee implementation of policy options, and support government-wide management initiatives.
+Resource Management Office - One of five OMB offices on the B (budget) side that helps to carry out OMB’s central activity of assisting the President in overseeing the preparation of the Federal Budget and supervising its administration of Executive Branch agencies.  In helping to formulate the President’s spending plans, the RMOs assess the effectiveness of agency programs, policies, and procedures, weigh competing funding demands within and among agencies, and help work with agencies to set funding priorities.  Once the Budget is enacted, RMOs are responsible for the execution of Federal budgetary policies and provide ongoing policy and management guidance to Federal agencies.  As part of these and other responsibilities, the RMOs provide analysis and evaluation, oversee implementation of policy options, and support government-wide management initiatives.
 
-Officer - Assigned to an agency by the Office of Management and Budget. Reviews the
+Resource Management Officer - Assigned to an agency by the Office of Management and Budget. Reviews the
 agency's mission and overview, strategic plans, and priority goals and
 indicators.
 
 
 ##### strategic goal
 
+A high-level, non-measurable articulation of what an agency or department will do to reach or achieve their mission. It provides a high-level focus to the work and usually highlights an implicit theory of change. Most organizaitons will have a few different strategic goals (3-9) that they pursue to reach their mission. While the strategic goal tells what an agency or department will do to achieve a mission, it does not articulate how they will do it ([strategic objectives](#strategic-objective)) or how they will determine success[performance measures](#indicators-and-indicator-instances).
 
 ##### strategic objective
+
+A low or mid-level, sometimes non-measurable, articulation of how an agency or department will do what they say they will do ([strategic goal](#strategic-goal)) to achieve their overall goal (mission). Organizations will usually create multiple strategic objectives (the how) for each [strategic goal](#strategic-goal) (the what).
 
 
 ##### strategic plan
 
+A plan created by an organization (in this case a federal government department or agency) that provides a framework for
+the delivery of the organization's mission and vision. Usually covering a number of years (like 5 years), the strategic plan outlines a set of [strategic goals](#strategic-goal), [objectives](#strategic-objective), and [performance measures](#indicators-and-indicator-instances). Simply put, a strategic plan serves as a guide for what an agency, department, or organization will achieve, how it will achieve it, and how it will measure our success. 
 
 ##### suppliers
 
-Those that produce and supply performance data. Agencies?
+A general term possibly referring to one of four groups depending on the context.
+
+-- the organizations who supply collected data, in other words, departments and agencies
+-- the performance team members who submit the data into the [PREP](#prep) system for OMB and the PIC.
+-- the people located in departments and agencies who collect and supply the data to the agency performance teams, in other words, program managers
+-- the external grantee organizations, businesses, state governments, and local governments who supply data to government program managers based on how they use federal government resources and results.
