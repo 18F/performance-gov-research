@@ -22,6 +22,11 @@ Strategic Plan.
 Require quarterly progress updates.
 
 
+##### BFELOB
+
+Budget Formulation and Execution Line of Business.
+
+
 ##### Business intelligence
 
 Often abbreviated BI, it is the strategies and technologies used by organizations for the data analysis of business information.
@@ -37,6 +42,18 @@ A series of 16 CAP Goals were announced in the 2015 Budget with clearly named ac
 
 
 ##### Chief Evaluation Officer
+
+
+##### CFO Act agencies
+
+24 agencies defined by the Cheif Financial Officer Act. These agencies make up
+the Performance Improvement Council.
+
+
+##### CGAC
+
+Common Government-wide Accounting Classification. Created in 2007 by OMB.
+A classification structure for budget.
 
 
 ##### CPG
@@ -96,6 +113,11 @@ sharing among agencies.
 ##### Performance Improvement Officer
 
 Individual representative from federal agencies.
+
+
+##### PMLOB
+
+Performance Management Line of Business.
 
 
 ##### PIC
