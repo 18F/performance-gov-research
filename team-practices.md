@@ -12,6 +12,19 @@ our partner and a sprint retro every other Tuesday. We have daily slack standups
 with our 18F team.
 
 
+## Calendar
+
+We use a [team
+calendar](https://calendar.google.com/calendar?cid=Z3NhLmdvdl91bmZrNXBtOWRiNjVyc2gwOWd1cGUydWU0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+to track project related meetings, deadlines, and events. Folks should feel free
+to attend any meeting on the calendar even if you were not explicitly invited.
+Please add any upcoming Out of Office time to the calendar.
+
+**Tip:** create the calendar event on the performance.gov calendar and add
+yourself as a guest. Other members can see the event and add themselves if they
+wish.
+
+
 ## Issues
 
 We use Github
