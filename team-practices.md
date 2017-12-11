@@ -1,6 +1,6 @@
 # Performance.gov Team practices
 
-This document describes the conventions the performance.gov team has agreed to work under.
+This document describes the conventions the Performance.gov team has agreed to work under.
 For information about licensing, code of conduct and contributing to this project,
 see the [CONTRIBUTING](CONTRIBUTING.md) file.
 
@@ -8,7 +8,7 @@ see the [CONTRIBUTING](CONTRIBUTING.md) file.
 ## Sprints
 
 We do two-week sprints, with a weekly Wednesday sprint progress check-in with
-our partner and a sprint retro every other Tuesday. We have daily slack standups
+our partner and a sprint retro every other Tuesday. We have daily Slack standups
 with our 18F team.
 
 
