@@ -53,8 +53,8 @@ many other things with higher priority.
 
 ### Backlog
 
-Groomed and ready to be pulled into the In Progress column for the
-current/upcoming sprint.
+Items ready to be groomed and prioritized in preparation to be pulled into the
+In Progress column for the current/upcoming sprint.
 
 
 #### Exit criteria
