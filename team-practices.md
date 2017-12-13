@@ -74,11 +74,11 @@ The work has been started. Limit 2 per assignee.
 #### Exit criteria
 
 - Acceptance criteria has been met.
-- Any artifacts, documents, assets, or code is included in the issue and available for the team.
-- PRs have been peer reviewed, "Approved", and merged.
+- Any artifacts, documents, assets, or code is included in the issue or a PR and
+  available for the team.
 
 
-### Complete
+### Review/Validate
 
 PR opened and/or task ready for team feedback.
 
