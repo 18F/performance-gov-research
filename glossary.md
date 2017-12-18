@@ -18,7 +18,7 @@ revisions to the goals for that same fiscal year, and plans for Agency Priority 
 
 ##### APG
 
-Agency Priority Goal. Target areas where agency leaders want to achieve
+Agency Priority Goal. A performance goal in a target areas where agency leaders want to achieve
 near-term performance improvement through focused senior leadership attention.
 APGs advance progress toward longer-term, outcome-focused goals in the agency's
 Strategic Plan.
@@ -116,6 +116,13 @@ indicators.
 ##### performance academy
 
 This is a proposed solution to the fundamental problem of a lack of data-driven culture, data literacy skills, performance management and evaluation skills, etc. It does not currently exist.
+
+
+##### performance goal
+
+> target level of performance expressed as a tangible, measurable objective, against which actual achievement can be compared, including a goal expressed as a quantitative standard, value, or rate; [31 USC § 1115(h)(9)](https://www.law.cornell.edu/uscode/text/31/1115#h_9)
+
+A measurable, desired outcome the agency is aiming to achieve in the near-term. Performance goals are defined as part of the agency's [annual performance plan](#annual-performance-plan-app) which makes progress to a higher-level strategic goal or objective.
 
 
 ##### Performance Improvement Council
