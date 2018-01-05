@@ -35,6 +35,15 @@
 	- Wireframes: https://projects.invisionapp.com/share/JNBRWI8UC#/screens/234426288
 - What is OMB?	
 	- https://www.theregreview.org/2016/09/06/pasachoff-ombs-resource-management-offices-and-agency-policy-control/
-
 - Overview of how GPRAMA, agency priority goals, strategic goals and reporting on those goals work (first ~15 mins): https://www.youtube.com/watch?v=ID7cToJ2poc
+-  Foundations for Evidence-Based Policymaking Act. http://docs.house.gov/billsthisweek/20171113/HR4174-1.pdf
+- MANAGING FOR SOCIAL CHANGE: IMPROVING LABOR DEPARTMENT PERFORMANCE IN A PARTISAN ER https://wvlawreview.wvu.edu/files/d/8ca1c588-9940-4902-8c42-77fa07876e84/harris-print2.pdf
+- http://www.govexec.com/federal-news/fedblog/2015/05/truth-about-government-performance/113674/ 
+- https://www.performanceinstitute.org/
+- https://s3-us-west-2.amazonaws.com/cmpdigital/transitions/Transitions2016Report.pdf
+
+### Critiques 
+- "GPRA provides little in the way of a definition of success. On the other hand, it includes detailed process requirements for publishing strategic plans and annual performance reports" "[the] managers did not use it to assess or improve their agency’s performance." "One result of this situation is that more than two decades in, the universe of people who genuinely care about government performance is and remains very small. "[GovEx Article](http://www.govexec.com/federal-news/fedblog/2015/05/truth-about-government-performance/113674/) [Full Report](https://wvlawreview.wvu.edu/files/d/8ca1c588-9940-4902-8c42-77fa07876e84/harris-print2.pdf)
+
+
 
