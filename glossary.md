@@ -72,6 +72,10 @@ A classification structure for budget.
 
 See [CAP Goal](#cap-goal).
 
+##### data capacity
+
+Technical ability of an organization to collect, analyze, and work with data.
+
 ##### GPRA
 
 Government Performance and Results Act.
