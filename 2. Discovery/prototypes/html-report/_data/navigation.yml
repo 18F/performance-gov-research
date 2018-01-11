@@ -10,18 +10,8 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
+  - text: Report
     href: /docs/
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: Referenced section
-    links: footer
 
 secondary: []
 
@@ -34,11 +24,11 @@ footer:
     href: /two/
 
 docs:
-  - text: Documentation
+  - text: 'Strategic Goal: Strengthen the Nation’s Housing Market to Bolster the Economy and Protect Consumers'
     href: /docs/
-  - text: Installation
-    href: /docs/install/
-  - text: Upgrading
-    href: /docs/upgrade/
-  - text: Help
-    href: /docs/help/
+  - text: 'Strategic Goal: Meet the Need for Quality Affordable Rental Homes'
+    href: '#'
+  - text: 'Strategic Goal: Use Housing as a Platform to Improve Quality of Life'
+    href: '#'
+  - text: 'Strategic Goal: Build Strong, Resilient, and Inclusive Communities'
+    href: '#'
