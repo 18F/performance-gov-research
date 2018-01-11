@@ -10,8 +10,10 @@
 #   links: primary
 #
 primary:
-  - text: Report
-    href: /docs/
+  - text: Agency reports
+    links:
+        - text: HUD
+          href: /agency/hud/
 
 secondary: []
 
@@ -23,12 +25,12 @@ footer:
   - text: Demo link two
     href: /two/
 
-docs:
+hud:
   - text: 'Strategic Goal: Strengthen the Nation’s Housing Market to Bolster the Economy and Protect Consumers'
-    href: /docs/
+    href: '#strategic-goal-strengthen-the-nations-housing-market-to-bolster-the-economy-and-protect-consumers'
   - text: 'Strategic Goal: Meet the Need for Quality Affordable Rental Homes'
-    href: '#'
+    href: '#strategic-goal-strengthen-the-nations-housing-market-to-bolster-the-economy-and-protect-consumers'
   - text: 'Strategic Goal: Use Housing as a Platform to Improve Quality of Life'
-    href: '#'
+    href: '#strategic-goal-strengthen-the-nations-housing-market-to-bolster-the-economy-and-protect-consumers'
   - text: 'Strategic Goal: Build Strong, Resilient, and Inclusive Communities'
-    href: '#'
+    href: '#strategic-goal-strengthen-the-nations-housing-market-to-bolster-the-economy-and-protect-consumers'

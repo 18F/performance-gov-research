@@ -1,0 +1,26 @@
+---
+layout: base
+main:
+  class: usa-grid usa-section usa-content usa-layout-docs
+---
+{% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+<div class="usa-grid usa-section-dark">
+  <div class="usa-section">
+  <h4>{{ page.title }}</h4>
+  <h2>{{ page.mission }}</h2>
+  <h3>{{ page.vision }}</h3>
+  <h4><a href="{{ page.agency-learn-more-link }}">{{ page.agency-learn-more-text }} >></a></h4>
+  </div>
+</div>
+<div class="usa-grid-full">
+  <section class="usa-section">
+    <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
+      {% include sidenav.html links=sidenav %}
+    </aside>
+
+    <div class="usa-width-three-fourths usa-layout-docs-main_content">
+
+      {{ content }}
+    </div>
+  </section>
+</div>
