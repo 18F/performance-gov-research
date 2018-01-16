@@ -26,6 +26,7 @@ This is a [Jekyll theme](https://jekyllrb.com/docs/themes/) for the
     1. [Base](#layout-base)
     1. [Docs](#layout-docs)
     1. [Landing](#layout-landing)
+1. [Deploy](#deploy)
 
 
 ## Installation
@@ -479,6 +480,17 @@ accommodates an optional side navigation. Supported [front matter]:
 See the [docs demo page](demo/docs.md) for an example of how this
 works, and see [_data/navigation.yml](_data/navigation.yml) for how
 to structure named navigation data for your site.
+
+
+## Deploy
+
+This prototype is deployed to [cloud.gov](https://cloud.gov/). We recommend you install the
+[autopilot](https://github.com/contraband/autopilot) plugin for zero-downtime
+deploys.
+
+    $ cf login --sso
+    $ cf target -o gsa-performance-discovery -s dev
+    $ cf zero-downtime-push performancegov-html-report -f prototypes/html-report/_manifest.yml
 
 
 [Sass]: http://sass-lang.com/guide
