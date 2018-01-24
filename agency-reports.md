@@ -1,6 +1,3 @@
-* https://www.hud.gov/sites/documents/2017_APP_2015_APR_FINAL.PDF
-Note: This is an example of an agency report that consolidates APR and APP reports.
-
 ## Agency performance site survey highlights
 [Report on agency performance site available in this private Google doc.](https://docs.google.com/document/d/1PIdIgtCvqMcTsGdAAg1sosBULQq7YncTL-tbuEZPCKw/edit#) 
 ### Most agencies just make lists of PDFs
@@ -37,7 +34,9 @@ asterisk indicates additional measures
 
 ### HUD
 https://www.hud.gov/program_offices/spm 
-Storytelling is minimal; most of the page is dedicated to explaining the wider program offices. There are, however, a few images that show charts of stats related to strategic objectives. [screenshot] These charts are a bit ambiguous as far as the performance metrics themselves go. They seem to be displaying latest known figures for the objectives, but do not link to or explain the strategic objectives or plans. Below the charts is a link to HUD’s FY 2016 Annual Performance Report (APR) for more information.
+Storytelling is minimal; most of the page is dedicated to explaining the wider program offices. There are, however, a few images that show charts of stats related to strategic objectives. [screenshot] These charts are a bit ambiguous as far as the performance metrics themselves go. They seem to be displaying latest known figures for the objectives, but do not link to or explain the strategic objectives or plans. Below the charts is a link to [HUD’s FY 2016 Annual Performance Report (APR)](https://www.hud.gov/sites/documents/2017_APP_2015_APR_FINAL.PDF) for more information.
+
+
 
 ### USDA
 https://www.usda.gov/our-agency/about-usda/performance 
