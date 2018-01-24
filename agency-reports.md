@@ -4,22 +4,36 @@ Note: This is an example of an agency report that consolidates APR and APP repor
 ## Agency performance site survey highlights
 [Report on agency performance site available in this private Google doc.](https://docs.google.com/document/d/1PIdIgtCvqMcTsGdAAg1sosBULQq7YncTL-tbuEZPCKw/edit#) 
 ### Most agencies just make lists of PDFs
-Site
-SSA: https://www.ssa.gov/agency/performance/ 
+
+SSA: https://www.ssa.gov/agency/performance/
+
 DOI: https://www.doi.gov/bpp 
+
 DoD: http://dcmo.defense.gov/Publications/Annual-Performance-Plan-and-Performance-Report/ 
+
 Department of Energy: https://energy.gov/cfo/listings/annual-performance-reports 
+
 EPA: https://www.epa.gov/planandbudget/archive 
+
 DHS: https://www.dhs.gov/publication/annual-performance-report-fiscal-years-2016-2018-0
+
 DOJ: https://www.justice.gov/about/budget-and-performance
+
 DOL: https://www.dol.gov/general/aboutdol#budget
+
 Department of State: https://www.state.gov/s/d/rm/rls/perfplan/index.htm
+
 DOT: https://www.transportation.gov/mission/budget/dot-budget-and-performance-documents
+
 Treasury: https://www.treasury.gov/about/budget-performance/Pages/default.aspx
+
 Department of Veterans Affairs: https://www.va.gov/performance/
+
 GSA*: https://www.gsa.gov/reference/reports/budget-performance
+
 SBA: https://www.sba.gov/about-sba/sba-performance
-* indicates additional measures
+
+asterisk indicates additional measures
 
 ### HUD
 https://www.hud.gov/program_offices/spm 
