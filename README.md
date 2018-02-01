@@ -5,14 +5,17 @@ This repository contains documentation describing the Office of Government-wide 
 
 **PLEASE NOTE**: This repository is a work in progress. We publish early to be transparent about our process. This repository is not ready for wide distribution.
 
+Quote
+
+- "*What purpose—exactly—is a public manager attempting to achieve by measuring performance?* Even for this narrower question, the answer isn't obvious. One analyst admonishes public managers: "Always remember that the intent of performance measures is to provide reliable and valid information on performance" (Theurer 1998,24). But that hardly answers the question. What will public managers do with all of this reliable and valid information? Producing reliable and valid reports of government performance is no end in itself. All of the reliable and valid data about performance is of little use to public managers if they lack a clear idea about how to use them or if the data are not appropriate for this particular use. So what, exactly, will performance measurement do, and what kinds of measures do public managers need to do this? Indeed, what is the logic behind all of this performance measurement—the causal link between the measures and the public manager's effort to achieve specific policy purposes?"
+
+[Why Measure Performance? Different Purposes Require Different Measures, Robert D. Behn](https://pdfs.semanticscholar.org/f311/b46229f7e81fbf289ed2548aace868ec3610.pdf)
+
+
 ## Contents
-* [History](/HISTORY.md)
-* [About this project](/ABOUT.md)
-* [Technical](/TECHNICAL.md) (*Placeholder*)
-* [Ecosystem](/ECOSYSTEM.md) (*Placeholder*)
-* [Personas](/PERSONAS.md) (*Placeholder*)
-* [Resources](/RESOURCES.md)
-* [Users](/USERS.md) (*Placeholder*)
+* [History](/history.md)
+* [About this project](/about.md)
+* [Resources](/resources.md)
 
 ## Contributing
 

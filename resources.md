@@ -38,3 +38,5 @@
 
 - Overview of how GPRAMA, agency priority goals, strategic goals and reporting on those goals work (first ~15 mins): https://www.youtube.com/watch?v=ID7cToJ2poc
 
+
+- https://pdfs.semanticscholar.org/f311/b46229f7e81fbf289ed2548aace868ec3610.pdf
