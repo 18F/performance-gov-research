@@ -93,6 +93,12 @@ Government Performance and Results Act.
 
 A document or report (or the act of researching to create the document or report) that consolidates information about federal programs working on the same goal. Such a report or document facilitates coordination across programs by making it easier to find programs that can contribute to a shared goal, as well as improve public understanding about what Federal programs do and how programs link to budget, performance and other information.
 
+
+##### implementation action plan
+
+How the APGs will be implemented.
+
+
 ##### indicators and indicator instances
 
 An indicator is a fact, metric, or measurement providing information on the state, condition, or level of something. Agencies usually track between 100-300 metrics depending on the size and subject matter pertaining to the agency. An indictor instance is a specific example (intance) of an indicator.
