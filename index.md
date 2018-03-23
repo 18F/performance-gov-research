@@ -1,7 +1,7 @@
 ---
 layout: home
 hero: # optional
-  image: https://www.performance.gov/img/homepage_images/newhero2_v2%20JPG.jpg
+  image: /assets/newhero2_v2%20JPG.jpg
   callout:
     text:  18F Discovery <br> Recommendations
     alt: Performance.gov <br/>
