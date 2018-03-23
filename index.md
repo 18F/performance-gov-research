@@ -1,7 +1,7 @@
 ---
 layout: home
 hero: # optional
-  image: /assets/4217661984_fec1fcdf69_b.jpg
+  image: https://www.performance.gov/img/homepage_images/newhero2_v2%20JPG.jpg
   callout:
     text:  18F Discovery <br> Recommendations
     alt: Performance.gov <br/>
@@ -44,6 +44,5 @@ graphics_position: before
 </style>
 	
 
-[About this project](/about.md) \| [18F](http://18f.gsa.gov) \| [Performane Improvement Council](http://pic.gov) \| [Office of Management and Budget](http://omb.gov) \| [Github](http://github.com/18f)
 
-<a style="font-size: 8pt" href="https://www.flickr.com/photos/tom_lohdan/4217661984">Credit: Photo by Tom Lohdan</a>
+[18F](https://18f.gsa.gov/) \| [Performane Improvement Council (PIC)](https://pic.gov/) \| [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) \| [Github](https://github.com/18F/performance.gov/)
