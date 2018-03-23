@@ -44,5 +44,4 @@ graphics_position: before
 </style>
 	
 
-
-[18F](https://18f.gsa.gov/) \| [Performane Improvement Council (PIC)](https://pic.gov/) \| [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) \| [Github](https://github.com/18F/performance.gov/)
+[18F](https://18f.gsa.gov/) \| [Performance Improvement Council (PIC)](https://pic.gov/) \| [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) \| [Github](https://github.com/18F/performance.gov/)
