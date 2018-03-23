@@ -21,4 +21,4 @@ We want to tell the right story with the data that agencies provide that is most
 Project Management
 * [Slack Channel](https://gsa-tts.slack.com/messages/C79M78VQC/convo/G0LSHU0PP-1510239239.000251/) (Private)
 * [18F Project Folder](https://drive.google.com/drive/u/1/folders/0Bykd9KmMpACXRUl2RDdGZjNucFk?ths=true) (Private)
-* [Technical Background](https://drive.google.com/drive/folders/0B2stDO5hLAHkWUlucVhlTzZ0dzQ)
+* [Technical Background](https://drive.google.com/drive/folders/0B2stDO5hLAHkWUlucVhlTzZ0dzQ) (Private)
