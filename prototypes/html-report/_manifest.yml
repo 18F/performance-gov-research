@@ -1,5 +1,0 @@
----
-buildpack: staticfile_buildpack
-path: _site
-memory: 64M
-name: performancegov-html-report
