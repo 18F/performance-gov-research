@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # performance.gov glossary
 
 This is an unofficial glossary of terms used internally within this project. The

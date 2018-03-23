@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Performance.gov Team practices
 
 This document describes the conventions the Performance.gov team has agreed to work under.
@@ -87,8 +91,7 @@ PR opened and/or task ready for team feedback.
 - Work has been peer reviewed and acceptance criteria is confirmed to have been
   met.
 - Any validation or usability testing has been performed.
-- Any follow-on work such as new hypotheses or next steps have been created as
-  new issues.
+- Any follow-on work such as new hypotheses or next steps have been created as new issues.
 
 
 ### Closed

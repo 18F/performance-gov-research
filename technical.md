@@ -1,14 +1,16 @@
-[DRAFT]
+---
+layout: page
+---
+# Agency Systems
+The following systems are used by agencies to track performance.
 
-| Agency System  | Summary | 
-|---|---|
-| BFEM (Treasury’s PMM Budget formulation system) | We've heard of a system called "BFEM" for tracking budget and performance. We need to learn more about this. |
-| FACTSInfo | pending |
-| BAS/ new BFS | pending |
-| IBM Cognos | pending |
-| Departmental e-Business Suite (DEBS) | pending |
-| Oracle BI | pending |
-| Microsoft Access | pending |
-| MS Word, MS Powerpoint | pending |
-| Google site with spreadsheets and presentation decks | pending |
-| Program Performance Tracking System | pending |
+- BFEM (Treasury’s PMM Budget formulation system)
+- FACTSInfo
+- BAS/ new BFS 
+- IBM Cognos 
+- Departmental e-Business Suite (DEBS) 
+- Oracle BI 
+- Microsoft Access 
+- MS Word, MS Powerpoint 
+- Google site with spreadsheets and presentation decks 
+- Program Performance Tracking System 

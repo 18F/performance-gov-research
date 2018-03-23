@@ -1,4 +1,9 @@
-### Policy & Deadlines
+---
+layout: home
+---
+<a class="usa-button" href="/">Home</a>
+
+# Policy & Deadlines
 - Overview of how agencies update CAPs and APGs with the PREP system:
 	- https://www.youtube.com/watch?v=AVA7aRAVJIo
 	- https://www.youtube.com/watch?v=OqChFe4YLxA

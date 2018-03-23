@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Survey of agency performance tools
 
 _Non-authoritative performance.gov research, curated by 18F, a digital
