@@ -7,7 +7,7 @@ hero: # optional
     alt: Performance.gov <br/>
   button: # optional
     text: Download Report
-    href: /assets/Performance.gov Discovery - Findings and Recommendations.pdf
+    href: /docs/Performance.gov Discovery - Findings and Recommendations.pdf
 
 tagline: Executive <br/> Summary
 intro: |
@@ -27,7 +27,7 @@ graphics:
       - Make performance data accessible with downloadable and well documented datasets.
       - Link performance information and graphics to their underlying data.
       - Connect to additional datasets to help researchers and journalists align multiple data sources for their work. 
-       <p><a class="usa-button" href="/assets/Performance.gov%20Discovery%20-%20Findings%20and%20Recommendations.pdf">Download Report</a></p>
+       <p><a class="usa-button" href="/docs/Performance.gov%20Discovery%20-%20Findings%20and%20Recommendations.pdf">Download Report</a></p>
 graphics_position: before
 ---
 
