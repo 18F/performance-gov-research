@@ -1,30 +1,51 @@
-# Performance.gov discovery
+---
+layout: home
+hero: # optional
+  image: /assets/4217661984_fec1fcdf69_b.jpg
+  callout:
+    text:  18F Discovery <br> Recommendations
+    alt: Performance.gov <br/>
+  button: # optional
+    text: Download Report
+    href: /assets/Performance.gov Discovery - Findings and Recommendations.pdf
 
-## Welcome!
-This repository contains documentation describing the Office of Government-wide Policy’s (OGP) Performance.gov Foundation Engagement and Discovery. This is where the project team can keep track of project vision, goals, timeline, the decision framework and learnings as we work. We want this to be the one-stop-shop where project participants - and anyone else who is interested in this project - can access important project information.
+tagline: Executive <br/> Summary
+intro: |
+  Performance.gov is a transparency and accountability website that provides a window into how federal agencies function and perform. The site is mandated by the Government Performance and Results Act Modernization Act (GPRAMA) of 2010, is managed by Performance Improvement Council (PIC), and overseen by the Office of Management and Budget (OMB).  
+  
+  In the fall of 2017, PIC/OMB brought on  18F  to conduct user research and help develop a strategy for the future of Performance.gov.
 
-**PLEASE NOTE**: This repository is a work in progress. We publish early to be transparent about our process. This repository is not ready for wide distribution.
+  18F conducted interviews and prototype testing sessions with journalists, think tank researchers, academics, and members of the performance management industry. From the observations made in those sessions, we identified ways to significantly improve the way users engage with performance information.  
 
-Quote
+graphics:
+  - image:
+      src: /assets/report-icon.png
+      alt: 18F report to PIC/OMB
+    title: Summary of our recommendations
+    description: |
+      - Focus on information architecture, way-finding, and navigation.
+      - Strengthen the site’s visual communication.
+      - Provide contextual clues that can teach users about the performance framework.
+      - Make performance data accessible with downloadable and well documented datasets.
+      - Link performance information and graphics to their underlying data.
+      - Connect to additional datasets to help researchers and journalists align multiple data sources for their work. 
+       <p><a class="usa-button" href="/assets/Performance.gov%20Discovery%20-%20Findings%20and%20Recommendations.pdf">Download Report</a></p>
+graphics_position: before
+---
 
-- "*What purpose—exactly—is a public manager attempting to achieve by measuring performance?* Even for this narrower question, the answer isn't obvious. One analyst admonishes public managers: "Always remember that the intent of performance measures is to provide reliable and valid information on performance" (Theurer 1998,24). But that hardly answers the question. What will public managers do with all of this reliable and valid information? Producing reliable and valid reports of government performance is no end in itself. All of the reliable and valid data about performance is of little use to public managers if they lack a clear idea about how to use them or if the data are not appropriate for this particular use. So what, exactly, will performance measurement do, and what kinds of measures do public managers need to do this? Indeed, what is the logic behind all of this performance measurement—the causal link between the measures and the public manager's effort to achieve specific policy purposes?"
+<style>
+	.usa-media_block-img{
+		width: 250px;
+	}
+	.usa-width-one-half{
+		width: 100%;
+	}
+	.usa-hero-callout h2{
+		font-size: 2.5rem;
+	}
+</style>
+	
 
-[Why Measure Performance? Different Purposes Require Different Measures, Robert D. Behn](https://pdfs.semanticscholar.org/f311/b46229f7e81fbf289ed2548aace868ec3610.pdf)
+[About this project](/about.md) \| [18F](http://18f.gsa.gov) \| [Performane Improvement Council](http://pic.gov) \| [Office of Management and Budget](http://omb.gov) \| [Github](http://github.com/18f)
 
-
-## Contents
-* [History](/history.md)
-* [About this project](/about.md)
-* [Resources](/resources.md)
-
-## Contributing
-
-See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
-
-## Public domain
-
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
-
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+<a style="font-size: 8pt" href="https://www.flickr.com/photos/tom_lohdan/4217661984">Credit: Photo by Tom Lohdan</a>
