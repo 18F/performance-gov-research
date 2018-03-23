@@ -11,11 +11,9 @@ hero: # optional
 
 tagline: Executive <br/> Summary
 intro: |
-  Performance.gov is a transparency and accountability website that provides a window into how federal agencies function and perform. The site is mandated by the Government Performance and Results Act Modernization Act (GPRAMA) of 2010, is managed by Performance Improvement Council (PIC), and overseen by the Office of Management and Budget (OMB).  
-  
-  In the fall of 2017, PIC/OMB brought on  18F  to conduct user research and help develop a strategy for the future of Performance.gov.
+  Performance.gov provides a window into how federal agencies function and perform. The transparency and accountability site is mandated by the Government Performance and Results Act Modernization Act (GPRAMA) of 2010, is managed by Performance Improvement Council (PIC), and overseen by the Office of Management and Budget (OMB).
 
-  18F conducted interviews and prototype testing sessions with journalists, think tank researchers, academics, and members of the performance management industry. From the observations made in those sessions, we identified ways to significantly improve the way users engage with performance information.  
+  In the fall of 2017, PIC/OMB brought on 18F to conduct user research and help develop a strategy for the future of Performance.gov. 18F conducted interviews and prototype testing sessions with a vast set of performance.gov users. From the observations made in those sessions, we identified ways to significantly improve the way users engage with performance information.
 
 graphics:
   - image:
