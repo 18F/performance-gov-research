@@ -41,7 +41,27 @@ graphics_position: before
 	.usa-hero-callout h2{
 		font-size: 2.5rem;
 	}
+  .usa-section:last-child {
+    text-align: center;
+  }
+  .usa-section:last-child p a {
+    color: #000;
+    font-weight: bold;
+  }
+  .usa-section:last-child p a:visited {
+    color: #000;
+  }
+  @media (max-width: 500px) {
+    .usa-media_block-img{
+      float: none;
+      margin: auto;
+      width: 500px;
+      margin-bottom: 25px;      
+    }
+  }  
+  
 </style>
 	
 
-[18F](https://18f.gsa.gov/) \| [Performance Improvement Council (PIC)](https://pic.gov/) \| [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) \| [Github](https://github.com/18F/performance.gov/)
+
+[18F](https://18f.gsa.gov/) \| [Performance Improvement Council (PIC)](https://pic.gov/) \| [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) \| [Github](https://github.com/18F/performance-gov-research/)
