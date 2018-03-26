@@ -1,7 +1,7 @@
 ---
 layout: home
 hero: # optional
-  image: /assets/newhero2_v2%20JPG.jpg
+  image: /assets/newhero2.jpg
   callout:
     text:  18F Discovery <br> Recommendations
     alt: Performance.gov <br/>
