@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/18F/uswds-jekyll.git
+  revision: 21fa897ceee0e130a3b7f50ea8056b26e3347ef7
+  specs:
+    uswds-jekyll (4.1.0)
+      jekyll (~> 3.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -227,15 +234,13 @@ GEM
     tzinfo (1.2.4)
       thread_safe (~> 0.1)
     unicode-display_width (1.3.0)
-    uswds-jekyll (4.1.0)
-      jekyll (~> 3.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   github-pages
-  uswds-jekyll
+  uswds-jekyll!
 
 BUNDLED WITH
    1.16.1
