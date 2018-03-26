@@ -2,3 +2,9 @@ theme: uswds-jekyll
 # Show or hide the official USA banner at the top of the site.
 # Comment out to the following line to hide.
 usa_banner: true
+styles:
+  - /assets/css/main.css
+    
+    
+scripts:
+  - /assets/uswds/js/uswds.js
